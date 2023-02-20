@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.ieszayas.dam.psp.chatMyTelco","l":"Acceso"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.ieszayas.dam.psp.chatMyTelco","l":"Cliente"},{"p":"com.ieszayas.dam.psp.chatMyTelco","l":"Servidor"}];updateSearchResults();

@@ -1,0 +1,48 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'15'
+-sourcepath
+'C:/Users/Administrador/OneDrive/Escritorio/Grado Superior/2ºDAM/Programación de Servicios y Procesos/Tema 6/6.1AProyecto/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Administrador/OneDrive/Escritorio/Grado Superior/2ºDAM/Programación de Servicios y Procesos/Tema 6/6.1AProyecto/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'6.1Proyecto 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/15/docs/api' 'C:/Users/Administrador/OneDrive/Escritorio/Grado Superior/2ºDAM/Programación de Servicios y Procesos/Tema 6/6.1AProyecto/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'6.1Proyecto 1.0-SNAPSHOT API'
+com.mycompany.proyecto
+'C:/Users/Administrador/OneDrive/Escritorio/Grado Superior/2ºDAM/Programación de Servicios y Procesos/Tema 6/6.1AProyecto/src/main/java/com/mycompany/proyecto/Actividad6.java'
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\Tema 6\6.1AProyecto\src\main\java = 1673476976686
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\Tema 6\6.1AProyecto\target\site\apidocs\allclasses-index.html = 1673700697703
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\Tema 6\6.1AProyecto\target\site\apidocs\allpackages-index.html = 1673700697705
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\Tema 6\6.1AProyecto\target\site\apidocs\constant-values.html = 1673700697657
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\Tema 6\6.1AProyecto\target\site\apidocs\deprecated-list.html = 1673700697679
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\Tema 6\6.1AProyecto\target\site\apidocs\element-list = 1673700697642
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\Tema 6\6.1AProyecto\target\site\apidocs\help-doc.html = 1673700697711
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\Tema 6\6.1AProyecto\target\site\apidocs\index-all.html = 1673700697697
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\Tema 6\6.1AProyecto\target\site\apidocs\index.html = 1673700697708
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\Tema 6\6.1AProyecto\target\site\apidocs\jquery-ui.overrides.css = 1673700697912
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\Tema 6\6.1AProyecto\target\site\apidocs\member-search-index.js = 1673700697694
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\Tema 6\6.1AProyecto\target\site\apidocs\module-search-index.js = 1673700697692
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\Tema 6\6.1AProyecto\target\site\apidocs\overview-tree.html = 1673700697672
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\Tema 6\6.1AProyecto\target\site\apidocs\package-search-index.js = 1673700697693
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\Tema 6\6.1AProyecto\target\site\apidocs\script.js = 1673700697727
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\Tema 6\6.1AProyecto\target\site\apidocs\search.js = 1673700697737
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\Tema 6\6.1AProyecto\target\site\apidocs\stylesheet.css = 1673700697718
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\Tema 6\6.1AProyecto\target\site\apidocs\tag-search-index.js = 1673700697695
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\Tema 6\6.1AProyecto\target\site\apidocs\type-search-index.js = 1673700697694

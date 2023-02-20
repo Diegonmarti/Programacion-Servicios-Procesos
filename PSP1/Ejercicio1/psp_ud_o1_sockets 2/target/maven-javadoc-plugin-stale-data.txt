@@ -1,0 +1,52 @@
+@options
+@packages
+@argfile
+-encoding
+'Cp1252'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/Administrador/OneDrive/Escritorio/Grado Superior/2ºDAM/Programación de Servicios y Procesos/gonzalez_martinez_diego_PSP01_Ejercicio/psp_ud_01_sockets 3/psp_ud_o1_sockets/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Administrador/OneDrive/Escritorio/Grado Superior/2ºDAM/Programación de Servicios y Procesos/gonzalez_martinez_diego_PSP01_Ejercicio/psp_ud_01_sockets 3/psp_ud_o1_sockets/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'psp_ud_o1_sockets 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Administrador/OneDrive/Escritorio/Grado Superior/2ºDAM/Programación de Servicios y Procesos/gonzalez_martinez_diego_PSP01_Ejercicio/psp_ud_01_sockets 3/psp_ud_o1_sockets/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'psp_ud_o1_sockets 1.0-SNAPSHOT API'
+com.ieszayas.dam.psp.chatMyTelco
+'C:/Users/Administrador/OneDrive/Escritorio/Grado Superior/2ºDAM/Programación de Servicios y Procesos/gonzalez_martinez_diego_PSP01_Ejercicio/psp_ud_01_sockets 3/psp_ud_o1_sockets/src/main/java/com/ieszayas/dam/psp/chatMyTelco/AbrirSimultaneamente.java'
+'C:/Users/Administrador/OneDrive/Escritorio/Grado Superior/2ºDAM/Programación de Servicios y Procesos/gonzalez_martinez_diego_PSP01_Ejercicio/psp_ud_01_sockets 3/psp_ud_o1_sockets/src/main/java/com/ieszayas/dam/psp/chatMyTelco/Acceso.java'
+'C:/Users/Administrador/OneDrive/Escritorio/Grado Superior/2ºDAM/Programación de Servicios y Procesos/gonzalez_martinez_diego_PSP01_Ejercicio/psp_ud_01_sockets 3/psp_ud_o1_sockets/src/main/java/com/ieszayas/dam/psp/chatMyTelco/Cliente.java'
+'C:/Users/Administrador/OneDrive/Escritorio/Grado Superior/2ºDAM/Programación de Servicios y Procesos/gonzalez_martinez_diego_PSP01_Ejercicio/psp_ud_01_sockets 3/psp_ud_o1_sockets/src/main/java/com/ieszayas/dam/psp/chatMyTelco/Servidor.java'
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\gonzalez_martinez_diego_PSP01_Ejercicio\psp_ud_01_sockets 3\psp_ud_o1_sockets\src\main\java = 1668296691570
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\gonzalez_martinez_diego_PSP01_Ejercicio\psp_ud_01_sockets 3\psp_ud_o1_sockets\target\site\apidocs\allclasses-index.html = 1668297776500
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\gonzalez_martinez_diego_PSP01_Ejercicio\psp_ud_01_sockets 3\psp_ud_o1_sockets\target\site\apidocs\allpackages-index.html = 1668297776503
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\gonzalez_martinez_diego_PSP01_Ejercicio\psp_ud_01_sockets 3\psp_ud_o1_sockets\target\site\apidocs\constant-values.html = 1668297776436
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\gonzalez_martinez_diego_PSP01_Ejercicio\psp_ud_01_sockets 3\psp_ud_o1_sockets\target\site\apidocs\deprecated-list.html = 1668297776476
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\gonzalez_martinez_diego_PSP01_Ejercicio\psp_ud_01_sockets 3\psp_ud_o1_sockets\target\site\apidocs\element-list = 1668297776418
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\gonzalez_martinez_diego_PSP01_Ejercicio\psp_ud_01_sockets 3\psp_ud_o1_sockets\target\site\apidocs\help-doc.html = 1668297776511
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\gonzalez_martinez_diego_PSP01_Ejercicio\psp_ud_01_sockets 3\psp_ud_o1_sockets\target\site\apidocs\index-all.html = 1668297776496
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\gonzalez_martinez_diego_PSP01_Ejercicio\psp_ud_01_sockets 3\psp_ud_o1_sockets\target\site\apidocs\index.html = 1668297776506
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\gonzalez_martinez_diego_PSP01_Ejercicio\psp_ud_01_sockets 3\psp_ud_o1_sockets\target\site\apidocs\jquery-ui.overrides.css = 1668297776532
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\gonzalez_martinez_diego_PSP01_Ejercicio\psp_ud_01_sockets 3\psp_ud_o1_sockets\target\site\apidocs\member-search-index.js = 1668297776495
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\gonzalez_martinez_diego_PSP01_Ejercicio\psp_ud_01_sockets 3\psp_ud_o1_sockets\target\site\apidocs\module-search-index.js = 1668297776492
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\gonzalez_martinez_diego_PSP01_Ejercicio\psp_ud_01_sockets 3\psp_ud_o1_sockets\target\site\apidocs\overview-tree.html = 1668297776472
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\gonzalez_martinez_diego_PSP01_Ejercicio\psp_ud_01_sockets 3\psp_ud_o1_sockets\target\site\apidocs\package-search-index.js = 1668297776493
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\gonzalez_martinez_diego_PSP01_Ejercicio\psp_ud_01_sockets 3\psp_ud_o1_sockets\target\site\apidocs\script.js = 1668297776515
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\gonzalez_martinez_diego_PSP01_Ejercicio\psp_ud_01_sockets 3\psp_ud_o1_sockets\target\site\apidocs\search.js = 1668297776517
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\gonzalez_martinez_diego_PSP01_Ejercicio\psp_ud_01_sockets 3\psp_ud_o1_sockets\target\site\apidocs\serialized-form.html = 1668297776449
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\gonzalez_martinez_diego_PSP01_Ejercicio\psp_ud_01_sockets 3\psp_ud_o1_sockets\target\site\apidocs\stylesheet.css = 1668297776514
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\gonzalez_martinez_diego_PSP01_Ejercicio\psp_ud_01_sockets 3\psp_ud_o1_sockets\target\site\apidocs\tag-search-index.js = 1668297776495
+C:\Users\Administrador\OneDrive\Escritorio\Grado Superior\2ºDAM\Programación de Servicios y Procesos\gonzalez_martinez_diego_PSP01_Ejercicio\psp_ud_01_sockets 3\psp_ud_o1_sockets\target\site\apidocs\type-search-index.js = 1668297776493
